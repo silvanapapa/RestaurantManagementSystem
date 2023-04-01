@@ -1,0 +1,11 @@
+100, Pizza, 5.0, 1
+101, Spaghetti Carbonara, 8.25, 1
+102, Pasta Amatriciana, 8.0, 1
+103, Ravioli, 7.50, 1
+104, Orange Juice, 2.0, 2
+105, Lemonade, 2.0, 2
+106, Lava cake, 3.87, 4
+107, Lemon tart, 4.0, 4
+108, Glass red wine, 2.0, 3
+109, Glass white wine, 2.0, 3
+110, Bottle red/white wine, 10.0, 3
